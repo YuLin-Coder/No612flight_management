@@ -1,0 +1,140 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3031765 */
+  src: url('iconfont.woff2?t=1639972423195') format('woff2'),
+       url('iconfont.woff?t=1639972423195') format('woff'),
+       url('iconfont.ttf?t=1639972423195') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-smile:before {
+  content: "\e783";
+  
+}
+
+.icon-logout:before {
+  content: "\e78d";
+}
+
+.icon-play-square:before {
+  content: "\e796";
+}
+
+.icon-align-left:before {
+  content: "\e7f5";
+}
+
+.icon-customerservice:before {
+  content: "\e7ca";
+}
+
+.icon-poweroff:before {
+  content: "\e78c";
+}
+
+.icon-shouye:before {
+  content: "\e612";
+}
+
+.icon-shouye1:before {
+  content: "\e614";
+}
+
+.icon-shouye2:before {
+  content: "\e626";
+}
+
+.icon-shouye3:before {
+  content: "\e627";
+}
+
+.icon-shouye4:before {
+  content: "\e643";
+}
+
+.icon-a-02-01:before {
+  content: "\e7aa";
+}
+
+.icon-a-03-01:before {
+  content: "\e7ab";
+}
+
+.icon-a-04-01:before {
+  content: "\e7ac";
+}
+
+.icon-a-05-01:before {
+  content: "\e7ad";
+}
+
+.icon-a-06-01:before {
+  content: "\e7ae";
+}
+
+.icon-a-07-01:before {
+  content: "\e7af";
+}
+
+.icon-a-08-01:before {
+  content: "\e7b0";
+}
+
+.icon-a-09-01:before {
+  content: "\e7b1";
+}
+
+.icon-a-10-01:before {
+  content: "\e7b2";
+}
+
+.icon-a-11-01:before {
+  content: "\e7b3";
+}
+
+.icon-a-12-01:before {
+  content: "\e7b4";
+}
+
+.icon-a-13-01:before {
+  content: "\e7b5";
+}
+
+.icon-a-14-01:before {
+  content: "\e7b6";
+}
+
+.icon-a-15-01:before {
+  content: "\e7b7";
+}
+
+.icon-a-16-01:before {
+  content: "\e7b8";
+}
+
+.icon-a-17-01:before {
+  content: "\e7b9";
+}
+
+.icon-a-18-01:before {
+  content: "\e7ba";
+}
+
+.icon-a-19-01:before {
+  content: "\e7bb";
+}
+
+.icon-a-20-01:before {
+  content: "\e7bc";
+}
+
+.icon-xuegao-01:before {
+  content: "\e7bd";
+}
+
